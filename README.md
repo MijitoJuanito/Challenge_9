@@ -4,6 +4,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Executing-Program](###Executing-Program)
+  * [Demonstration](###Demonstration)
   * [Questions](#questions)
   * [License](#license)
   
@@ -38,6 +39,10 @@
 ```
    node index.js
 ```
+### Demonstration
+
+![Demo of PROFESSIONAL README GENERATOR ](./Assets/utils/sampleREADME.md)
+[PROFESSIONAL README GENERATOR DA DEMO](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/c966ab7a-182a-4006-y8b6-4bf3d42ca4b8)
 
 
 
