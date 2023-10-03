@@ -42,7 +42,7 @@
 ### Demonstration
 
 ![Demo of PROFESSIONAL README GENERATOR ](./Assets/utils/READMEDEMO.jpg)
-[PROFESSIONAL README GENERATOR DEMO](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/c966ab7a-182a-4006-y8b6-4bf3d42ca4b8)
+[PROFESSIONAL README GENERATOR DEMO](https://drive.google.com/file/d/1m5WFLz1Ju5vf7TEHp7QnBUztx9HAdoUy/view)
 
 
 
